@@ -108,6 +108,7 @@ This project prioritizes user privacy and data protection, implementing secure h
 
 ## 👥 Contributors
 - [AnnaChen1228](https://github.com/AnnaChen1228)
+- [chiehyutu](https://github.com/chiehyutu)
 
 ## 📅 Latest Updates
 - Updated main.py with improved functionality
